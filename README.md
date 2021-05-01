@@ -1,5 +1,5 @@
 <p align="center" >
-    <h1 align="center">ByteBUCK 💲🚀</h1>
+    <h1 align="center">BytesBUCK 💲🚀</h1>
     <p align="center">Don't have any better name for it :p</p>
 </p>
 
@@ -7,13 +7,13 @@ It simply helps in calculating bytes and humanizing them.
 
 ## ⚡ Usage
 ```sh
-yarn add byte-buck
-# OR npm install byte-buck
+yarn add bytes-buck
+# OR npm install bytes-buck
 ```
 
 ### Example:-
 ```ts
-import byteBuck from 'byte-buck'
+import byteBuck from 'bytes-buck'
 
 let result = byteBuck(
   // Bytes you want to sum
